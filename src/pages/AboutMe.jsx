@@ -10,6 +10,7 @@ const AboutMe = () => {
             <AboutSection />
             <ServicesSection />
             <FaqSection />
+            <div>asdas</div>
         </>
     );
 };
